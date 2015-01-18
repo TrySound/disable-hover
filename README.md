@@ -7,7 +7,7 @@ Disable hover effects on scroll
 $ bower i disable-hover
 ```
 
-```
+```html
 <html>
 <head>
   ...
