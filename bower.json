@@ -6,7 +6,10 @@
     "Bogdan Chadkin <trysound@yandex.ru>"
   ],
   "description": "Disable hover effects on scroll",
-  "main": "dist/disable-hover.js, dist/disable-hover.css",
+  "main": [
+    "dist/disable-hover.js",
+    "dist/disable-hover.css"
+  ],
   "keywords": [
     "hover",
     "pointer-events",
