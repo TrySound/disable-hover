@@ -1,8 +1,8 @@
 /*!
- * disable-hover 1.0.4
+ * disable-hover 1.0.5
  * Disable hover effects on scroll
  * https://github.com/TrySound/disable-hover
-
+ * 
  * Released under the MIT license
  * Copyright (c) 2015, Bogdan Chadkin <trysound@yandex.ru>
  */
