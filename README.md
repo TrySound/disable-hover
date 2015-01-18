@@ -15,7 +15,7 @@ $ bower i disable-hover
 </head>
 <body>
   ...
-  <script src="bower_components/disable-hover/dist/disable-hover.min.js">
+  <script src="bower_components/disable-hover/dist/disable-hover.min.js"></script>
 </body>
 </html>
 ```
