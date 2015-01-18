@@ -1,0 +1,24 @@
+{
+  "name": "disable-hover",
+  "version": "1.0.0",
+  "homepage": "https://github.com/TrySound/disable-hover",
+  "authors": [
+    "Bogdan Chadkin <trysound@yandex.ru>"
+  ],
+  "description": "Disable hover effects on scroll",
+  "main": "dist/disable-hover.js, dist/disable-hover.css",
+  "keywords": [
+    "hover",
+    "pointer-events",
+    "60fps",
+    "scroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
