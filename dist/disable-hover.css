@@ -1,5 +1,5 @@
 /*!
- * disable-hover 1.0.3
+ * disable-hover 1.0.4
  * Disable hover effects on scroll
  * https://github.com/TrySound/disable-hover
 
