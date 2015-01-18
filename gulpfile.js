@@ -9,7 +9,7 @@ var gulp = require('gulp'),
 				' * <%= homepage %>\n',
 				' * Released under the <%= license %> license',
 				' * Copyright (c) <%= new Date().getFullYear() %>, <%= author %>',
-				' */\n'].join('\n');
+				' */\n\n'].join('\n');
 
 
 gulp.task('default', function () {
